@@ -23,3 +23,6 @@ Splitting_Data is for splitting the dataset to sketch and real image seperately.
 Shoes - I used 10320 train data. I only trained the model for 1 epoch due to low system specs. In colab also runtime is limited to 12 hrs.
 
 Hat - I used 1199 train data. I trained the model for 100 epochs.
+
+If you have any doubts or queries please contact me by e-mail
+bpnmnu@gmail.com
